@@ -1,1 +1,1 @@
-# karooz
+# karoo
